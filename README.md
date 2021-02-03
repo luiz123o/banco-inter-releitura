@@ -12,11 +12,11 @@
   </a>
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/lukemorales/bancointer.svg">
-  <a href="https://github.com/lukemorales/bancointer/commits/master">
+  <a href="https://github.com/luiz123o/banco-inter-releitura/commits/main">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/lukemorales/bancointer.svg">
   </a>
 
-  <a href="https://github.com/lukemorales/bancointer/issues">
+  <a href="https://github.com/luiz123o/banco-inter-releitura/issues">
     <img alt="Repository issues" src="https://img.shields.io/github/issues/lukemorales/bancointer.svg">
   </a>
 
@@ -60,7 +60,7 @@ This project is under the MIT license. See the [LICENSE](https://github.com/luke
 
 ---
 
-Made with ♥ by Luke Morales :wave: [Get in touch!](https://www.linkedin.com/in/lukemorales/)
+
 
 [ts]: https://www.typescriptlang.org
 [vscode]: https://code.visualstudio.com/
